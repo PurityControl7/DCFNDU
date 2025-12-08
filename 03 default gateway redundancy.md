@@ -358,8 +358,6 @@ To summarize:
 
 *The main benefits of GLBP are the following:*
 
-- *The main benefits of GLBP are the following:*
-
 - *A single virtual IP address and multiple virtual MAC addresses are provided.*
 
 - *Traffic routes to a single gateway distributed across routers.*
