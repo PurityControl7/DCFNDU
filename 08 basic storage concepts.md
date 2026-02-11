@@ -764,8 +764,6 @@ Finally, the killer shortcut: **E/TE = fabric plumbing, F/TF = device edge, NP/T
 
 *VSAN trunking enables a link transmitting frames in the EISL format to carry traffic for multiple VSANs. When trunking is operational on an E Port, that E Port becomes a TE Port. EISLs connect only between Cisco switches, as shown on the right side of the figure.*
 
-*Before configuring a SAN port channel, consider the following guidelines:*
-
 ## Lab: Configure VSANs
 
 ### Verify the Inventory of Cisco Nexus 5000 Switch and Configure Interfaces
